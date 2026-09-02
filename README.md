@@ -1,5 +1,6 @@
 # Exploratory Data Analysis of Smart Manufacturing Operations
-![Uploading Exploratory Analysis of Smart Manufacturing Operations.png…]()
+<img width="1920" height="480" alt="Exploratory Analysis of Smart Manufacturing Operations" src="https://github.com/user-attachments/assets/955cd9e3-5028-4c66-8a9f-18d263380fd5" />
+
 
 ### Identifying Patterns and Relationships in IIoT-Enabled Manufacturing Data
 
