@@ -372,13 +372,9 @@ The project is informed by research on:
 
 ## 👩‍💻 Author
 
-**Siham Bouguern**
+**Siham Bouguern** | Industrial Engineering & Data Science
 
-Industrial Engineering & Data Science
-
-Interested in:
-
-**Smart Manufacturing · Industrial Analytics · IIoT · Manufacturing Intelligence · Data Science**
+Interested in: **Smart Manufacturing · Industrial Analytics · IIoT · Manufacturing Intelligence · Data Science**
 
 ---
 
